@@ -1,0 +1,7641 @@
+[
+  {
+    "id": 1,
+    "name": "Laura",
+    "age": 23,
+    "gender": "F",
+    "preferred_genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 396,
+        "title": "The Nightmare Before Christmas",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-29"
+      },
+      {
+        "movie_id": 381,
+        "title": "Dogville",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-07-29"
+      },
+      {
+        "movie_id": 500,
+        "title": "Fantastic Mr. Fox",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-09"
+      },
+      {
+        "movie_id": 102,
+        "title": "Toy Story",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-03"
+      },
+      {
+        "movie_id": 459,
+        "title": "The Wizard of Oz",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-12"
+      },
+      {
+        "movie_id": 322,
+        "title": "Das Cabinet des Dr. Caligari",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-26"
+      },
+      {
+        "movie_id": 538,
+        "title": "La montaña sagrada",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-22"
+      },
+      {
+        "movie_id": 229,
+        "title": "Hachi: A Dog's Tale",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-04"
+      },
+      {
+        "movie_id": 455,
+        "title": "The Best Years of Our Lives",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-03-29"
+      },
+      {
+        "movie_id": 159,
+        "title": "Hauru no ugoku shiro",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-28"
+      },
+      {
+        "movie_id": 93,
+        "title": "Babam ve Oglum",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-27"
+      },
+      {
+        "movie_id": 488,
+        "title": "Låt den rätte komma in",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-14"
+      },
+      {
+        "movie_id": 30,
+        "title": "Star Wars",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-12"
+      },
+      {
+        "movie_id": 444,
+        "title": "La Strada",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-03-03"
+      },
+      {
+        "movie_id": 331,
+        "title": "Zootopia",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-06"
+      },
+      {
+        "movie_id": 442,
+        "title": "The Killing",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-01-21"
+      },
+      {
+        "movie_id": 701,
+        "title": "Wait Until Dark",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-01-21"
+      },
+      {
+        "movie_id": 333,
+        "title": "Kaguyahime no monogatari",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-19"
+      },
+      {
+        "movie_id": 62,
+        "title": "Coco",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-13"
+      },
+      {
+        "movie_id": 377,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-29"
+      },
+      {
+        "movie_id": 17,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-08"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Isabella",
+    "age": 19,
+    "gender": "F",
+    "preferred_genres": [
+      "Comedy",
+      "Animation",
+      "Family"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 661,
+        "title": "The Sandlot",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-25"
+      },
+      {
+        "movie_id": 138,
+        "title": "Queen",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-22"
+      },
+      {
+        "movie_id": 55,
+        "title": "Ayla: The Daughter of War",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-19"
+      },
+      {
+        "movie_id": 24,
+        "title": "Sen to Chihiro no kamikakushi",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-20"
+      },
+      {
+        "movie_id": 491,
+        "title": "Jab We Met",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-22"
+      },
+      {
+        "movie_id": 556,
+        "title": "High Noon",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-05-11"
+      },
+      {
+        "movie_id": 713,
+        "title": "Shadow of a Doubt",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-05-04"
+      },
+      {
+        "movie_id": 973,
+        "title": "Delicatessen",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-27"
+      },
+      {
+        "movie_id": 632,
+        "title": "Pride & Prejudice",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-20"
+      },
+      {
+        "movie_id": 688,
+        "title": "The King of Comedy",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-11"
+      },
+      {
+        "movie_id": 97,
+        "title": "Snatch",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-06"
+      },
+      {
+        "movie_id": 628,
+        "title": "Hot Fuzz",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-25"
+      },
+      {
+        "movie_id": 855,
+        "title": "Where Eagles Dare",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-02-12"
+      },
+      {
+        "movie_id": 595,
+        "title": "English Vinglish",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-04"
+      },
+      {
+        "movie_id": 93,
+        "title": "Babam ve Oglum",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 20,
+        "title": "Gisaengchung",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-07"
+      },
+      {
+        "movie_id": 740,
+        "title": "Nebraska",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-04"
+      },
+      {
+        "movie_id": 133,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-03"
+      },
+      {
+        "movie_id": 614,
+        "title": "Druk",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-15"
+      },
+      {
+        "movie_id": 404,
+        "title": "Do the Right Thing",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-06"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Manuela",
+    "age": 22,
+    "gender": "F",
+    "preferred_genres": [
+      "Family",
+      "Comedy",
+      "Fantasy"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 542,
+        "title": "Harold and Maude",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-27"
+      },
+      {
+        "movie_id": 227,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-26"
+      },
+      {
+        "movie_id": 17,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-22"
+      },
+      {
+        "movie_id": 825,
+        "title": "A Few Good Men",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-08-22"
+      },
+      {
+        "movie_id": 217,
+        "title": "Rush",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-08-21"
+      },
+      {
+        "movie_id": 425,
+        "title": "Butch Cassidy and the Sundance Kid",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-08-07"
+      },
+      {
+        "movie_id": 795,
+        "title": "Hedwig and the Angry Inch",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-02"
+      },
+      {
+        "movie_id": 364,
+        "title": "Bin-jip",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-07-02"
+      },
+      {
+        "movie_id": 400,
+        "title": "Aladdin",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-22"
+      },
+      {
+        "movie_id": 816,
+        "title": "Il postino",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-05"
+      },
+      {
+        "movie_id": 414,
+        "title": "Being There",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-11"
+      },
+      {
+        "movie_id": 847,
+        "title": "Love and Death",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-02"
+      },
+      {
+        "movie_id": 24,
+        "title": "Sen to Chihiro no kamikakushi",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-29"
+      },
+      {
+        "movie_id": 548,
+        "title": "Charade",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-21"
+      },
+      {
+        "movie_id": 699,
+        "title": "Willy Wonka & the Chocolate Factory",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-22"
+      },
+      {
+        "movie_id": 136,
+        "title": "Klaus",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 920,
+        "title": "Stardust",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-04"
+      },
+      {
+        "movie_id": 20,
+        "title": "Gisaengchung",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-29"
+      },
+      {
+        "movie_id": 844,
+        "title": "Rupan sansei: Kariosutoro no shiro",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-13"
+      },
+      {
+        "movie_id": 181,
+        "title": "To Kill a Mockingbird",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-12-13"
+      },
+      {
+        "movie_id": 465,
+        "title": "Dil Bechara",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-04"
+      },
+      {
+        "movie_id": 872,
+        "title": "The Quiet Man",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-16"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Alice",
+    "age": 24,
+    "gender": "F",
+    "preferred_genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 965,
+        "title": "Dead Man",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-22"
+      },
+      {
+        "movie_id": 593,
+        "title": "Big Hero 6",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-10"
+      },
+      {
+        "movie_id": 494,
+        "title": "Star Trek",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-01"
+      },
+      {
+        "movie_id": 271,
+        "title": "Kaze no tani no Naushika",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-16"
+      },
+      {
+        "movie_id": 42,
+        "title": "The Usual Suspects",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-16"
+      },
+      {
+        "movie_id": 245,
+        "title": "Amores perros",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-15"
+      },
+      {
+        "movie_id": 762,
+        "title": "Toki o kakeru shôjo",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-01"
+      },
+      {
+        "movie_id": 232,
+        "title": "Into the Wild",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-13"
+      },
+      {
+        "movie_id": 870,
+        "title": "The Ladykillers",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-11"
+      },
+      {
+        "movie_id": 862,
+        "title": "Goldfinger",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-09"
+      },
+      {
+        "movie_id": 564,
+        "title": "His Girl Friday",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-30"
+      },
+      {
+        "movie_id": 17,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 490,
+        "title": "The Wrestler",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-05-01"
+      },
+      {
+        "movie_id": 104,
+        "title": "Reservoir Dogs",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-04-19"
+      },
+      {
+        "movie_id": 847,
+        "title": "Love and Death",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-05"
+      },
+      {
+        "movie_id": 4,
+        "title": "The Godfather: Part II",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-03"
+      },
+      {
+        "movie_id": 558,
+        "title": "Harvey",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-21"
+      },
+      {
+        "movie_id": 497,
+        "title": "Letters from Iwo Jima",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-01"
+      },
+      {
+        "movie_id": 723,
+        "title": "Deadpool 2",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-26"
+      },
+      {
+        "movie_id": 136,
+        "title": "Klaus",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-18"
+      },
+      {
+        "movie_id": 115,
+        "title": "2001: A Space Odyssey",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 866,
+        "title": "The Magnificent Seven",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-09"
+      },
+      {
+        "movie_id": 799,
+        "title": "Interstate 60: Episodes of the Road",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-28"
+      },
+      {
+        "movie_id": 318,
+        "title": "La passion de Jeanne d'Arc",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-12-01"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Lucas",
+    "age": 23,
+    "gender": "M",
+    "preferred_genres": [
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 66,
+        "title": "Taare Zameen Par",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-26"
+      },
+      {
+        "movie_id": 777,
+        "title": "Kung fu",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-24"
+      },
+      {
+        "movie_id": 456,
+        "title": "Arsenic and Old Lace",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-22"
+      },
+      {
+        "movie_id": 328,
+        "title": "La La Land",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-13"
+      },
+      {
+        "movie_id": 212,
+        "title": "Ôkami kodomo no Ame to Yuki",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-04"
+      },
+      {
+        "movie_id": 930,
+        "title": "Match Point",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-11"
+      },
+      {
+        "movie_id": 540,
+        "title": "Le charme discret de la bourgeoisie",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-10"
+      },
+      {
+        "movie_id": 854,
+        "title": "Dirty Harry",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-21"
+      },
+      {
+        "movie_id": 128,
+        "title": "The Kid",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-19"
+      },
+      {
+        "movie_id": 276,
+        "title": "Blade Runner",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-02"
+      },
+      {
+        "movie_id": 702,
+        "title": "Guess Who's Coming to Dinner",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-14"
+      },
+      {
+        "movie_id": 504,
+        "title": "Shaun of the Dead",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-03"
+      },
+      {
+        "movie_id": 627,
+        "title": "Little Miss Sunshine",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-19"
+      },
+      {
+        "movie_id": 265,
+        "title": "Ba wang bie ji",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-02-05"
+      },
+      {
+        "movie_id": 913,
+        "title": "Zombieland",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-20"
+      },
+      {
+        "movie_id": 961,
+        "title": "Sleepers",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-12-22"
+      },
+      {
+        "movie_id": 205,
+        "title": "Relatos salvajes",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-13"
+      },
+      {
+        "movie_id": 909,
+        "title": "Kick-Ass",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-28"
+      },
+      {
+        "movie_id": 430,
+        "title": "The Sound of Music",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-04"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gabriel",
+    "age": 18,
+    "gender": "M",
+    "preferred_genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 125,
+        "title": "Citizen Kane",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-08-28"
+      },
+      {
+        "movie_id": 65,
+        "title": "3 Idiots",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-07"
+      },
+      {
+        "movie_id": 21,
+        "title": "Soorarai Pottru",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-07-19"
+      },
+      {
+        "movie_id": 787,
+        "title": "Good Bye Lenin!",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-15"
+      },
+      {
+        "movie_id": 588,
+        "title": "Pride",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-30"
+      },
+      {
+        "movie_id": 206,
+        "title": "Soul",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-29"
+      },
+      {
+        "movie_id": 100,
+        "title": "Good Will Hunting",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-06-15"
+      },
+      {
+        "movie_id": 852,
+        "title": "Deliverance",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-25"
+      },
+      {
+        "movie_id": 402,
+        "title": "Beauty and the Beast",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-23"
+      },
+      {
+        "movie_id": 651,
+        "title": "October Sky",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-16"
+      },
+      {
+        "movie_id": 181,
+        "title": "To Kill a Mockingbird",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-04-13"
+      },
+      {
+        "movie_id": 723,
+        "title": "Deadpool 2",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-23"
+      },
+      {
+        "movie_id": 474,
+        "title": "Thor: Ragnarok",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-26"
+      },
+      {
+        "movie_id": 782,
+        "title": "Harry Potter and the Goblet of Fire",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-17"
+      },
+      {
+        "movie_id": 652,
+        "title": "Shrek",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-07"
+      },
+      {
+        "movie_id": 514,
+        "title": "Children of Men",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-02"
+      },
+      {
+        "movie_id": 570,
+        "title": "The Gentlemen",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 121,
+        "title": "Singin' in the Rain",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 380,
+        "title": "Yeopgijeogin geunyeo",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-15"
+      },
+      {
+        "movie_id": 584,
+        "title": "Captain America: Civil War",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-10"
+      },
+      {
+        "movie_id": 897,
+        "title": "Hell or High Water",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-01-09"
+      },
+      {
+        "movie_id": 1,
+        "title": "The Shawshank Redemption",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-29"
+      },
+      {
+        "movie_id": 643,
+        "title": "The Count of Monte Cristo",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-23"
+      },
+      {
+        "movie_id": 243,
+        "title": "Finding Nemo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-18"
+      },
+      {
+        "movie_id": 427,
+        "title": "Planet of the Apes",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-05"
+      },
+      {
+        "movie_id": 910,
+        "title": "Celda 211",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-25"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Enzo",
+    "age": 24,
+    "gender": "M",
+    "preferred_genres": [
+      "Fantasy",
+      "Family",
+      "Comedy"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 113,
+        "title": "The Sting",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 552,
+        "title": "Hiroshima mon amour",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-07-11"
+      },
+      {
+        "movie_id": 843,
+        "title": "Airplane!",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-31"
+      },
+      {
+        "movie_id": 911,
+        "title": "Moneyball",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-05-04"
+      },
+      {
+        "movie_id": 607,
+        "title": "Straight Outta Compton",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-30"
+      },
+      {
+        "movie_id": 817,
+        "title": "Clerks",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-28"
+      },
+      {
+        "movie_id": 974,
+        "title": "Home Alone",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-15"
+      },
+      {
+        "movie_id": 86,
+        "title": "Tumbbad",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-11"
+      },
+      {
+        "movie_id": 154,
+        "title": "Rang De Basanti",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-16"
+      },
+      {
+        "movie_id": 798,
+        "title": "O Brother, Where Art Thou?",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-11"
+      },
+      {
+        "movie_id": 913,
+        "title": "Zombieland",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-08"
+      },
+      {
+        "movie_id": 550,
+        "title": "Spartacus",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-08"
+      },
+      {
+        "movie_id": 229,
+        "title": "Hachi: A Dog's Tale",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-26"
+      },
+      {
+        "movie_id": 133,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-05"
+      },
+      {
+        "movie_id": 26,
+        "title": "The Green Mile",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-21"
+      },
+      {
+        "movie_id": 239,
+        "title": "Munna Bhai M.B.B.S.",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-20"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Matheus",
+    "age": 22,
+    "gender": "M",
+    "preferred_genres": [
+      "Comedy",
+      "Family",
+      "Adventure",
+      "Fantasy"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 196,
+        "title": "Portrait de la jeune fille en feu",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-08-08"
+      },
+      {
+        "movie_id": 473,
+        "title": "Sing Street",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-01"
+      },
+      {
+        "movie_id": 208,
+        "title": "PK",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-29"
+      },
+      {
+        "movie_id": 33,
+        "title": "It's a Wonderful Life",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-30"
+      },
+      {
+        "movie_id": 40,
+        "title": "Gladiator",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-16"
+      },
+      {
+        "movie_id": 17,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-26"
+      },
+      {
+        "movie_id": 881,
+        "title": "Nelyubov",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-05-12"
+      },
+      {
+        "movie_id": 214,
+        "title": "Inside Out",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-11"
+      },
+      {
+        "movie_id": 349,
+        "title": "Deadpool",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-11"
+      },
+      {
+        "movie_id": 425,
+        "title": "Butch Cassidy and the Sundance Kid",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-05-06"
+      },
+      {
+        "movie_id": 441,
+        "title": "Sweet Smell of Success",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-03-22"
+      },
+      {
+        "movie_id": 234,
+        "title": "Lage Raho Munna Bhai",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-19"
+      },
+      {
+        "movie_id": 133,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-14"
+      },
+      {
+        "movie_id": 128,
+        "title": "The Kid",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-03"
+      },
+      {
+        "movie_id": 831,
+        "title": "Withnail & I",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-18"
+      },
+      {
+        "movie_id": 305,
+        "title": "The Bridge on the River Kwai",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-03"
+      },
+      {
+        "movie_id": 73,
+        "title": "Raiders of the Lost Ark",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-02"
+      },
+      {
+        "movie_id": 194,
+        "title": "The Gold Rush",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-02"
+      },
+      {
+        "movie_id": 206,
+        "title": "Soul",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-15"
+      },
+      {
+        "movie_id": 93,
+        "title": "Babam ve Oglum",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-12"
+      },
+      {
+        "movie_id": 167,
+        "title": "Andaz Apna Apna",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-09"
+      },
+      {
+        "movie_id": 37,
+        "title": "The Prestige",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-11-28"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Thais Kotovicz",
+    "age": 37,
+    "gender": "F",
+    "preferred_genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Thriller"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 246,
+        "title": "Monsters, Inc.",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-30"
+      },
+      {
+        "movie_id": 5,
+        "title": "12 Angry Men",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-31"
+      },
+      {
+        "movie_id": 268,
+        "title": "Stand by Me",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-18"
+      },
+      {
+        "movie_id": 461,
+        "title": "The Thin Man",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-06-30"
+      },
+      {
+        "movie_id": 65,
+        "title": "3 Idiots",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-06-26"
+      },
+      {
+        "movie_id": 247,
+        "title": "Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-25"
+      },
+      {
+        "movie_id": 475,
+        "title": "Nightcrawler",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-20"
+      },
+      {
+        "movie_id": 667,
+        "title": "Lat sau san taam",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-16"
+      },
+      {
+        "movie_id": 341,
+        "title": "Blade Runner 2049",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-10"
+      },
+      {
+        "movie_id": 187,
+        "title": "Du rififi chez les hommes",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-29"
+      },
+      {
+        "movie_id": 305,
+        "title": "The Bridge on the River Kwai",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-25"
+      },
+      {
+        "movie_id": 321,
+        "title": "The General",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-10"
+      },
+      {
+        "movie_id": 248,
+        "title": "Lagaan: Once Upon a Time in India",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-09"
+      },
+      {
+        "movie_id": 28,
+        "title": "Se7en",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-04-05"
+      },
+      {
+        "movie_id": 326,
+        "title": "Bajrangi Bhaijaan",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-19"
+      },
+      {
+        "movie_id": 302,
+        "title": "Kakushi-toride no san-akunin",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-08"
+      },
+      {
+        "movie_id": 330,
+        "title": "The Martian",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-26"
+      },
+      {
+        "movie_id": 332,
+        "title": "Bãhubali: The Beginning",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-14"
+      },
+      {
+        "movie_id": 310,
+        "title": "The Third Man",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-16"
+      },
+      {
+        "movie_id": 198,
+        "title": "Koe no katachi",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-12-12"
+      },
+      {
+        "movie_id": 277,
+        "title": "The Elephant Man",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-12-06"
+      },
+      {
+        "movie_id": 227,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-30"
+      },
+      {
+        "movie_id": 294,
+        "title": "What Ever Happened to Baby Jane?",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-05"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Mariana",
+    "age": 40,
+    "gender": "F",
+    "preferred_genres": [
+      "Action",
+      "Thriller",
+      "Sci-Fi",
+      "Adventure"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 496,
+        "title": "The Man from Earth",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-07-28"
+      },
+      {
+        "movie_id": 62,
+        "title": "Coco",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-13"
+      },
+      {
+        "movie_id": 627,
+        "title": "Little Miss Sunshine",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-07-08"
+      },
+      {
+        "movie_id": 725,
+        "title": "Get Out",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-11"
+      },
+      {
+        "movie_id": 556,
+        "title": "High Noon",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-24"
+      },
+      {
+        "movie_id": 555,
+        "title": "East of Eden",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-25"
+      },
+      {
+        "movie_id": 782,
+        "title": "Harry Potter and the Goblet of Fire",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-21"
+      },
+      {
+        "movie_id": 610,
+        "title": "The Hobbit: The Desolation of Smaug",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-17"
+      },
+      {
+        "movie_id": 111,
+        "title": "Das Boot",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-26"
+      },
+      {
+        "movie_id": 528,
+        "title": "The Untouchables",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-13"
+      },
+      {
+        "movie_id": 475,
+        "title": "Nightcrawler",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 571,
+        "title": "Raazi",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-14"
+      },
+      {
+        "movie_id": 553,
+        "title": "The Ten Commandments",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-08"
+      },
+      {
+        "movie_id": 667,
+        "title": "Lat sau san taam",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-25"
+      },
+      {
+        "movie_id": 20,
+        "title": "Gisaengchung",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-19"
+      },
+      {
+        "movie_id": 59,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-15"
+      },
+      {
+        "movie_id": 575,
+        "title": "Perfetti sconosciuti",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-11-11"
+      },
+      {
+        "movie_id": 643,
+        "title": "The Count of Monte Cristo",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-05"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Fernanda",
+    "age": 39,
+    "gender": "F",
+    "preferred_genres": [
+      "Action",
+      "Sci-Fi",
+      "Adventure",
+      "Thriller"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 408,
+        "title": "Der Himmel über Berlin",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-08-14"
+      },
+      {
+        "movie_id": 211,
+        "title": "Gone Girl",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-28"
+      },
+      {
+        "movie_id": 192,
+        "title": "The Treasure of the Sierra Madre",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-22"
+      },
+      {
+        "movie_id": 20,
+        "title": "Gisaengchung",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-13"
+      },
+      {
+        "movie_id": 565,
+        "title": "The Adventures of Robin Hood",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-10"
+      },
+      {
+        "movie_id": 17,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-27"
+      },
+      {
+        "movie_id": 324,
+        "title": "Togo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-18"
+      },
+      {
+        "movie_id": 7,
+        "title": "Pulp Fiction",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-06-16"
+      },
+      {
+        "movie_id": 47,
+        "title": "Hotaru no haka",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-06-15"
+      },
+      {
+        "movie_id": 162,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-13"
+      },
+      {
+        "movie_id": 497,
+        "title": "Letters from Iwo Jima",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-03"
+      },
+      {
+        "movie_id": 113,
+        "title": "The Sting",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-03-25"
+      },
+      {
+        "movie_id": 212,
+        "title": "Ôkami kodomo no Ame to Yuki",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-09"
+      },
+      {
+        "movie_id": 302,
+        "title": "Kakushi-toride no san-akunin",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-26"
+      },
+      {
+        "movie_id": 346,
+        "title": "Tropa de Elite 2: O Inimigo Agora é Outro",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-01"
+      },
+      {
+        "movie_id": 421,
+        "title": "Sleuth",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 218,
+        "title": "Ford v Ferrari",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-18"
+      },
+      {
+        "movie_id": 305,
+        "title": "The Bridge on the River Kwai",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-17"
+      },
+      {
+        "movie_id": 725,
+        "title": "Get Out",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-01"
+      },
+      {
+        "movie_id": 141,
+        "title": "Gangs of Wasseypur",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-31"
+      },
+      {
+        "movie_id": 295,
+        "title": "Sanjuro",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-09"
+      },
+      {
+        "movie_id": 243,
+        "title": "Finding Nemo",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-28"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Juliana",
+    "age": 25,
+    "gender": "F",
+    "preferred_genres": [
+      "Adventure",
+      "Thriller",
+      "Sci-Fi",
+      "Action"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 71,
+        "title": "Mononoke-hime",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-18"
+      },
+      {
+        "movie_id": 7,
+        "title": "Pulp Fiction",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-08-17"
+      },
+      {
+        "movie_id": 31,
+        "title": "Seppuku",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 825,
+        "title": "A Few Good Men",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-06"
+      },
+      {
+        "movie_id": 326,
+        "title": "Bajrangi Bhaijaan",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-02"
+      },
+      {
+        "movie_id": 183,
+        "title": "Judgment at Nuremberg",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-07-19"
+      },
+      {
+        "movie_id": 494,
+        "title": "Star Trek",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-12"
+      },
+      {
+        "movie_id": 702,
+        "title": "Guess Who's Coming to Dinner",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-30"
+      },
+      {
+        "movie_id": 157,
+        "title": "Swades: We, the People",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-05-27"
+      },
+      {
+        "movie_id": 104,
+        "title": "Reservoir Dogs",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-05"
+      },
+      {
+        "movie_id": 516,
+        "title": "Mulholland Dr.",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-28"
+      },
+      {
+        "movie_id": 274,
+        "title": "Fitzcarraldo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-20"
+      },
+      {
+        "movie_id": 61,
+        "title": "Avengers: Infinity War",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-18"
+      },
+      {
+        "movie_id": 189,
+        "title": "Tôkyô monogatari",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-18"
+      },
+      {
+        "movie_id": 131,
+        "title": "K.G.F: Chapter 1",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-16"
+      },
+      {
+        "movie_id": 109,
+        "title": "Scarface",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-13"
+      },
+      {
+        "movie_id": 401,
+        "title": "JFK",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-04"
+      },
+      {
+        "movie_id": 179,
+        "title": "Monty Python and the Holy Grail",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-04"
+      },
+      {
+        "movie_id": 145,
+        "title": "Warrior",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-27"
+      },
+      {
+        "movie_id": 37,
+        "title": "The Prestige",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-22"
+      },
+      {
+        "movie_id": 367,
+        "title": "G.O.R.A.",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-25"
+      },
+      {
+        "movie_id": 503,
+        "title": "Iron Man",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-19"
+      },
+      {
+        "movie_id": 282,
+        "title": "Barry Lyndon",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-16"
+      },
+      {
+        "movie_id": 271,
+        "title": "Kaze no tani no Naushika",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-23"
+      },
+      {
+        "movie_id": 706,
+        "title": "The Longest Day",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-01"
+      },
+      {
+        "movie_id": 230,
+        "title": "Mary and Max",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-11-29"
+      },
+      {
+        "movie_id": 902,
+        "title": "End of Watch",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-24"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Rodrigo",
+    "age": 32,
+    "gender": "M",
+    "preferred_genres": [
+      "Thriller",
+      "Sci-Fi",
+      "Action",
+      "Adventure"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 195,
+        "title": "Sherlock Jr.",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-23"
+      },
+      {
+        "movie_id": 768,
+        "title": "Zodiac",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-08-03"
+      },
+      {
+        "movie_id": 47,
+        "title": "Hotaru no haka",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-07-19"
+      },
+      {
+        "movie_id": 76,
+        "title": "Alien",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-10"
+      },
+      {
+        "movie_id": 490,
+        "title": "The Wrestler",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-06-19"
+      },
+      {
+        "movie_id": 772,
+        "title": "Tangled",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-16"
+      },
+      {
+        "movie_id": 789,
+        "title": "I Am Sam",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-07"
+      },
+      {
+        "movie_id": 127,
+        "title": "Metropolis",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 153,
+        "title": "V for Vendetta",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-04"
+      },
+      {
+        "movie_id": 37,
+        "title": "The Prestige",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-02"
+      },
+      {
+        "movie_id": 119,
+        "title": "North by Northwest",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-21"
+      },
+      {
+        "movie_id": 114,
+        "title": "A Clockwork Orange",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-08"
+      },
+      {
+        "movie_id": 369,
+        "title": "Casino Royale",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-29"
+      },
+      {
+        "movie_id": 73,
+        "title": "Raiders of the Lost Ark",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-20"
+      },
+      {
+        "movie_id": 53,
+        "title": "City Lights",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-19"
+      },
+      {
+        "movie_id": 214,
+        "title": "Inside Out",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-15"
+      },
+      {
+        "movie_id": 231,
+        "title": "How to Train Your Dragon",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 138,
+        "title": "Queen",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-06"
+      },
+      {
+        "movie_id": 422,
+        "title": "The Last Picture Show",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-12-26"
+      },
+      {
+        "movie_id": 31,
+        "title": "Seppuku",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-24"
+      },
+      {
+        "movie_id": 104,
+        "title": "Reservoir Dogs",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-12"
+      },
+      {
+        "movie_id": 43,
+        "title": "Léon",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-01"
+      },
+      {
+        "movie_id": 106,
+        "title": "Idi i smotri",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-24"
+      },
+      {
+        "movie_id": 3,
+        "title": "The Dark Knight",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-12"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Bruno",
+    "age": 25,
+    "gender": "M",
+    "preferred_genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Adventure"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 369,
+        "title": "Casino Royale",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-14"
+      },
+      {
+        "movie_id": 942,
+        "title": "25th Hour",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-08-08"
+      },
+      {
+        "movie_id": 301,
+        "title": "Ben-Hur",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-02"
+      },
+      {
+        "movie_id": 855,
+        "title": "Where Eagles Dare",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-31"
+      },
+      {
+        "movie_id": 903,
+        "title": "Kari-gurashi no Arietti",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-16"
+      },
+      {
+        "movie_id": 798,
+        "title": "O Brother, Where Art Thou?",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-16"
+      },
+      {
+        "movie_id": 789,
+        "title": "I Am Sam",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-13"
+      },
+      {
+        "movie_id": 913,
+        "title": "Zombieland",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-10"
+      },
+      {
+        "movie_id": 860,
+        "title": "Repulsion",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-04"
+      },
+      {
+        "movie_id": 778,
+        "title": "The Bourne Supremacy",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-12"
+      },
+      {
+        "movie_id": 885,
+        "title": "The Peanut Butter Falcon",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-09"
+      },
+      {
+        "movie_id": 841,
+        "title": "First Blood",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-11"
+      },
+      {
+        "movie_id": 958,
+        "title": "Fear and Loathing in Las Vegas",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-02"
+      },
+      {
+        "movie_id": 785,
+        "title": "The Last Samurai",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-01-31"
+      },
+      {
+        "movie_id": 245,
+        "title": "Amores perros",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-28"
+      },
+      {
+        "movie_id": 801,
+        "title": "Office Space",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-12-28"
+      },
+      {
+        "movie_id": 362,
+        "title": "Blood Diamond",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-19"
+      },
+      {
+        "movie_id": 739,
+        "title": "Rockstar",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-12-07"
+      },
+      {
+        "movie_id": 864,
+        "title": "Cape Fear",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-05"
+      },
+      {
+        "movie_id": 324,
+        "title": "Togo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-21"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Eduardo",
+    "age": 37,
+    "gender": "M",
+    "preferred_genres": [
+      "Thriller",
+      "Action",
+      "Sci-Fi"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 695,
+        "title": "La planète sauvage",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-25"
+      },
+      {
+        "movie_id": 649,
+        "title": "The Boondock Saints",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-17"
+      },
+      {
+        "movie_id": 785,
+        "title": "The Last Samurai",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-28"
+      },
+      {
+        "movie_id": 613,
+        "title": "The Trial of the Chicago 7",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-07"
+      },
+      {
+        "movie_id": 438,
+        "title": "Anatomy of a Murder",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-06-10"
+      },
+      {
+        "movie_id": 515,
+        "title": "Almost Famous",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-05-27"
+      },
+      {
+        "movie_id": 525,
+        "title": "Edward Scissorhands",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-04-24"
+      },
+      {
+        "movie_id": 567,
+        "title": "King Kong",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-20"
+      },
+      {
+        "movie_id": 991,
+        "title": "Giù la testa",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-12"
+      },
+      {
+        "movie_id": 565,
+        "title": "The Adventures of Robin Hood",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-10"
+      },
+      {
+        "movie_id": 571,
+        "title": "Raazi",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-08"
+      },
+      {
+        "movie_id": 676,
+        "title": "Back to the Future Part II",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-19"
+      },
+      {
+        "movie_id": 775,
+        "title": "3:10 to Yuma",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-09"
+      },
+      {
+        "movie_id": 666,
+        "title": "Batman: Mask of the Phantasm",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-08"
+      },
+      {
+        "movie_id": 606,
+        "title": "Ajeossi",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-14"
+      },
+      {
+        "movie_id": 678,
+        "title": "Predator",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-27"
+      },
+      {
+        "movie_id": 731,
+        "title": "Kingsman: The Secret Service",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-20"
+      },
+      {
+        "movie_id": 664,
+        "title": "The Fugitive",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-12"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Diego",
+    "age": 31,
+    "gender": "M",
+    "preferred_genres": [
+      "Action",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 290,
+        "title": "Persona",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-25"
+      },
+      {
+        "movie_id": 808,
+        "title": "The Fifth Element",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-07"
+      },
+      {
+        "movie_id": 686,
+        "title": "Ghostbusters",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-09"
+      },
+      {
+        "movie_id": 246,
+        "title": "Monsters, Inc.",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-15"
+      },
+      {
+        "movie_id": 279,
+        "title": "The Deer Hunter",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-04-03"
+      },
+      {
+        "movie_id": 689,
+        "title": "E.T. the Extra-Terrestrial",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-24"
+      },
+      {
+        "movie_id": 778,
+        "title": "The Bourne Supremacy",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-10"
+      },
+      {
+        "movie_id": 332,
+        "title": "Bãhubali: The Beginning",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-24"
+      },
+      {
+        "movie_id": 720,
+        "title": "Frankenstein",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-22"
+      },
+      {
+        "movie_id": 738,
+        "title": "Captain America: The Winter Soldier",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-18"
+      },
+      {
+        "movie_id": 719,
+        "title": "Scarface: The Shame of the Nation",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-05"
+      },
+      {
+        "movie_id": 717,
+        "title": "Bride of Frankenstein",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-24"
+      },
+      {
+        "movie_id": 480,
+        "title": "X-Men: Days of Future Past",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-13"
+      },
+      {
+        "movie_id": 483,
+        "title": "Edge of Tomorrow",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-04"
+      },
+      {
+        "movie_id": 417,
+        "title": "Dog Day Afternoon",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-02"
+      },
+      {
+        "movie_id": 461,
+        "title": "The Thin Man",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-11-28"
+      },
+      {
+        "movie_id": 783,
+        "title": "Man on Fire",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-23"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Ana Carolina",
+    "age": 40,
+    "gender": "F",
+    "preferred_genres": [
+      "War",
+      "Crime",
+      "History",
+      "Biography"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 347,
+        "title": "The King's Speech",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-30"
+      },
+      {
+        "movie_id": 438,
+        "title": "Anatomy of a Murder",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-29"
+      },
+      {
+        "movie_id": 240,
+        "title": "Salinui chueok",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-15"
+      },
+      {
+        "movie_id": 364,
+        "title": "Bin-jip",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-15"
+      },
+      {
+        "movie_id": 568,
+        "title": "Freaks",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-06-29"
+      },
+      {
+        "movie_id": 446,
+        "title": "Stalag 17",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-19"
+      },
+      {
+        "movie_id": 346,
+        "title": "Tropa de Elite 2: O Inimigo Agora é Outro",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-19"
+      },
+      {
+        "movie_id": 361,
+        "title": "The Pursuit of Happyness",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-03"
+      },
+      {
+        "movie_id": 262,
+        "title": "Chung Hing sam lam",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-25"
+      },
+      {
+        "movie_id": 184,
+        "title": "Some Like It Hot",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-15"
+      },
+      {
+        "movie_id": 366,
+        "title": "Le scaphandre et le papillon",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-02"
+      },
+      {
+        "movie_id": 398,
+        "title": "Bound by Honor",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-19"
+      },
+      {
+        "movie_id": 609,
+        "title": "Chugyeokja",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-25"
+      },
+      {
+        "movie_id": 166,
+        "title": "Casino",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-27"
+      },
+      {
+        "movie_id": 712,
+        "title": "To Have and Have Not",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-12-15"
+      },
+      {
+        "movie_id": 717,
+        "title": "Bride of Frankenstein",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-12-08"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Patricia",
+    "age": 45,
+    "gender": "F",
+    "preferred_genres": [
+      "War",
+      "Crime",
+      "History"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 810,
+        "title": "Donnie Brasco",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-26"
+      },
+      {
+        "movie_id": 889,
+        "title": "Baby Driver",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-26"
+      },
+      {
+        "movie_id": 521,
+        "title": "True Romance",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-12"
+      },
+      {
+        "movie_id": 662,
+        "title": "The Remains of the Day",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-08-08"
+      },
+      {
+        "movie_id": 668,
+        "title": "Night on Earth",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-29"
+      },
+      {
+        "movie_id": 395,
+        "title": "Kôkaku Kidôtai",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-05"
+      },
+      {
+        "movie_id": 658,
+        "title": "Ed Wood",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-22"
+      },
+      {
+        "movie_id": 773,
+        "title": "Zwartboek",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 513,
+        "title": "Nueve reinas",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-09"
+      },
+      {
+        "movie_id": 486,
+        "title": "Un prophète",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-01"
+      },
+      {
+        "movie_id": 821,
+        "title": "Malcolm X",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-31"
+      },
+      {
+        "movie_id": 675,
+        "title": "Dip huet seung hung",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-28"
+      },
+      {
+        "movie_id": 622,
+        "title": "Drive",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-25"
+      },
+      {
+        "movie_id": 824,
+        "title": "Glengarry Glen Ross",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-26"
+      },
+      {
+        "movie_id": 681,
+        "title": "Down by Law",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-08"
+      },
+      {
+        "movie_id": 703,
+        "title": "Bonnie and Clyde",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-30"
+      },
+      {
+        "movie_id": 233,
+        "title": "No Country for Old Men",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-30"
+      },
+      {
+        "movie_id": 370,
+        "title": "Kill Bill: Vol. 2",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-28"
+      },
+      {
+        "movie_id": 802,
+        "title": "Happiness",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-01-27"
+      },
+      {
+        "movie_id": 859,
+        "title": "A Man for All Seasons",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-18"
+      },
+      {
+        "movie_id": 803,
+        "title": "Training Day",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-15"
+      },
+      {
+        "movie_id": 646,
+        "title": "Wo hu cang long",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-25"
+      },
+      {
+        "movie_id": 791,
+        "title": "Black Hawk Down",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-19"
+      },
+      {
+        "movie_id": 685,
+        "title": "The Killing Fields",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-17"
+      },
+      {
+        "movie_id": 647,
+        "title": "Todo sobre mi madre",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-12-05"
+      },
+      {
+        "movie_id": 663,
+        "title": "Naked",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-11-22"
+      },
+      {
+        "movie_id": 236,
+        "title": "Hotel Rwanda",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-15"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Cristina",
+    "age": 47,
+    "gender": "F",
+    "preferred_genres": [
+      "History",
+      "Biography",
+      "Drama"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 674,
+        "title": "Glory",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-09"
+      },
+      {
+        "movie_id": 626,
+        "title": "Apocalypto",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-02"
+      },
+      {
+        "movie_id": 721,
+        "title": "Roma",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-05"
+      },
+      {
+        "movie_id": 677,
+        "title": "Mississippi Burning",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-21"
+      },
+      {
+        "movie_id": 755,
+        "title": "(500) Days of Summer",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-21"
+      },
+      {
+        "movie_id": 981,
+        "title": "Blood Simple",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-12"
+      },
+      {
+        "movie_id": 476,
+        "title": "Jojo Rabbit",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-30"
+      },
+      {
+        "movie_id": 717,
+        "title": "Bride of Frankenstein",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-01"
+      },
+      {
+        "movie_id": 272,
+        "title": "The Thing",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-03-01"
+      },
+      {
+        "movie_id": 617,
+        "title": "The Boy in the Striped Pyjamas",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-27"
+      },
+      {
+        "movie_id": 921,
+        "title": "The Secret of Kells",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-01-14"
+      },
+      {
+        "movie_id": 141,
+        "title": "Gangs of Wasseypur",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-01-09"
+      },
+      {
+        "movie_id": 618,
+        "title": "Once",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-03"
+      },
+      {
+        "movie_id": 340,
+        "title": "Guardians of the Galaxy",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2025-12-11"
+      },
+      {
+        "movie_id": 631,
+        "title": "Adams æbler",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-04"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Luciana",
+    "age": 49,
+    "gender": "F",
+    "preferred_genres": [
+      "Drama",
+      "Biography",
+      "History",
+      "War"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 19,
+        "title": "Hamilton",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 472,
+        "title": "Captain Fantastic",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-23"
+      },
+      {
+        "movie_id": 239,
+        "title": "Munna Bhai M.B.B.S.",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-18"
+      },
+      {
+        "movie_id": 370,
+        "title": "Kill Bill: Vol. 2",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-07-04"
+      },
+      {
+        "movie_id": 300,
+        "title": "Les quatre cents coups",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-01"
+      },
+      {
+        "movie_id": 342,
+        "title": "Her",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-12"
+      },
+      {
+        "movie_id": 283,
+        "title": "Zerkalo",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-04"
+      },
+      {
+        "movie_id": 9,
+        "title": "Inception",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-06-04"
+      },
+      {
+        "movie_id": 295,
+        "title": "Sanjuro",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-05-21"
+      },
+      {
+        "movie_id": 408,
+        "title": "Der Himmel über Berlin",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-13"
+      },
+      {
+        "movie_id": 52,
+        "title": "Modern Times",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-02"
+      },
+      {
+        "movie_id": 40,
+        "title": "Gladiator",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-30"
+      },
+      {
+        "movie_id": 18,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-26"
+      },
+      {
+        "movie_id": 420,
+        "title": "The Exorcist",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-18"
+      },
+      {
+        "movie_id": 216,
+        "title": "12 Years a Slave",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-08"
+      },
+      {
+        "movie_id": 17,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-02-17"
+      },
+      {
+        "movie_id": 131,
+        "title": "K.G.F: Chapter 1",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-13"
+      },
+      {
+        "movie_id": 453,
+        "title": "Brief Encounter",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-11"
+      },
+      {
+        "movie_id": 132,
+        "title": "Green Book",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-10"
+      },
+      {
+        "movie_id": 449,
+        "title": "In a Lonely Place",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-30"
+      },
+      {
+        "movie_id": 255,
+        "title": "Trainspotting",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-18"
+      },
+      {
+        "movie_id": 713,
+        "title": "Shadow of a Doubt",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-11-21"
+      },
+      {
+        "movie_id": 373,
+        "title": "Mar adentro",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-04"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Carlos",
+    "age": 60,
+    "gender": "M",
+    "preferred_genres": [
+      "Drama",
+      "Biography",
+      "History"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 327,
+        "title": "Baby",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-31"
+      },
+      {
+        "movie_id": 577,
+        "title": "Paddington 2",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-07-27"
+      },
+      {
+        "movie_id": 822,
+        "title": "The Last of the Mohicans",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-14"
+      },
+      {
+        "movie_id": 773,
+        "title": "Zwartboek",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-05"
+      },
+      {
+        "movie_id": 198,
+        "title": "Koe no katachi",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-06"
+      },
+      {
+        "movie_id": 35,
+        "title": "Whiplash",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-04"
+      },
+      {
+        "movie_id": 13,
+        "title": "Il buono, il brutto, il cattivo",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-05-29"
+      },
+      {
+        "movie_id": 572,
+        "title": "Sound of Metal",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 852,
+        "title": "Deliverance",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 765,
+        "title": "Ex Machina",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-05"
+      },
+      {
+        "movie_id": 754,
+        "title": "Argo",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-28"
+      },
+      {
+        "movie_id": 881,
+        "title": "Nelyubov",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-20"
+      },
+      {
+        "movie_id": 788,
+        "title": "In America",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-21"
+      },
+      {
+        "movie_id": 761,
+        "title": "Flipped",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-13"
+      },
+      {
+        "movie_id": 853,
+        "title": "The French Connection",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-03"
+      },
+      {
+        "movie_id": 20,
+        "title": "Gisaengchung",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-11"
+      },
+      {
+        "movie_id": 427,
+        "title": "Planet of the Apes",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-12-20"
+      },
+      {
+        "movie_id": 861,
+        "title": "Zulu",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-19"
+      },
+      {
+        "movie_id": 834,
+        "title": "Der Name der Rose",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-18"
+      },
+      {
+        "movie_id": 9,
+        "title": "Inception",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-12-05"
+      },
+      {
+        "movie_id": 769,
+        "title": "Lucky Number Slevin",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-27"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Roberto",
+    "age": 58,
+    "gender": "M",
+    "preferred_genres": [
+      "Biography",
+      "History",
+      "Crime"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 768,
+        "title": "Zodiac",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-30"
+      },
+      {
+        "movie_id": 23,
+        "title": "Cidade de Deus",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-18"
+      },
+      {
+        "movie_id": 86,
+        "title": "Tumbbad",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-08"
+      },
+      {
+        "movie_id": 688,
+        "title": "The King of Comedy",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-02"
+      },
+      {
+        "movie_id": 693,
+        "title": "The Man Who Would Be King",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-30"
+      },
+      {
+        "movie_id": 754,
+        "title": "Argo",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-24"
+      },
+      {
+        "movie_id": 660,
+        "title": "Tombstone",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-21"
+      },
+      {
+        "movie_id": 681,
+        "title": "Down by Law",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-15"
+      },
+      {
+        "movie_id": 650,
+        "title": "The Insider",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-13"
+      },
+      {
+        "movie_id": 719,
+        "title": "Scarface: The Shame of the Nation",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-11"
+      },
+      {
+        "movie_id": 749,
+        "title": "The Social Network",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-01"
+      },
+      {
+        "movie_id": 622,
+        "title": "Drive",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-01"
+      },
+      {
+        "movie_id": 147,
+        "title": "Up",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-02-13"
+      },
+      {
+        "movie_id": 639,
+        "title": "Diarios de motocicleta",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-01"
+      },
+      {
+        "movie_id": 677,
+        "title": "Mississippi Burning",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-07"
+      },
+      {
+        "movie_id": 71,
+        "title": "Mononoke-hime",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-12-20"
+      },
+      {
+        "movie_id": 687,
+        "title": "The Right Stuff",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-08"
+      },
+      {
+        "movie_id": 605,
+        "title": "Captain Phillips",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-08"
+      },
+      {
+        "movie_id": 189,
+        "title": "Tôkyô monogatari",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-08"
+      },
+      {
+        "movie_id": 1,
+        "title": "The Shawshank Redemption",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-11-19"
+      },
+      {
+        "movie_id": 711,
+        "title": "Key Largo",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-15"
+      },
+      {
+        "movie_id": 703,
+        "title": "Bonnie and Clyde",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-12"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Fernando",
+    "age": 58,
+    "gender": "M",
+    "preferred_genres": [
+      "War",
+      "Drama",
+      "Crime"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 995,
+        "title": "A Hard Day's Night",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-07-19"
+      },
+      {
+        "movie_id": 106,
+        "title": "Idi i smotri",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-07"
+      },
+      {
+        "movie_id": 621,
+        "title": "Atonement",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-04"
+      },
+      {
+        "movie_id": 366,
+        "title": "Le scaphandre et le papillon",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-01"
+      },
+      {
+        "movie_id": 446,
+        "title": "Stalag 17",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-19"
+      },
+      {
+        "movie_id": 636,
+        "title": "Walk the Line",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-16"
+      },
+      {
+        "movie_id": 72,
+        "title": "Once Upon a Time in America",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-15"
+      },
+      {
+        "movie_id": 479,
+        "title": "Before Midnight",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-10"
+      },
+      {
+        "movie_id": 136,
+        "title": "Klaus",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-26"
+      },
+      {
+        "movie_id": 656,
+        "title": "The Game",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-18"
+      },
+      {
+        "movie_id": 391,
+        "title": "Knockin' on Heaven's Door",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-05"
+      },
+      {
+        "movie_id": 711,
+        "title": "Key Largo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-20"
+      },
+      {
+        "movie_id": 162,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-25"
+      },
+      {
+        "movie_id": 15,
+        "title": "The Matrix",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-23"
+      },
+      {
+        "movie_id": 250,
+        "title": "La leggenda del pianista sull'oceano",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-21"
+      },
+      {
+        "movie_id": 764,
+        "title": "This Is England",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-10"
+      },
+      {
+        "movie_id": 336,
+        "title": "Special Chabbis",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-28"
+      },
+      {
+        "movie_id": 377,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-12-10"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Ricardo",
+    "age": 61,
+    "gender": "M",
+    "preferred_genres": [
+      "Drama",
+      "Crime",
+      "Biography",
+      "History"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 6,
+        "title": "The Lord of the Rings: The Return of the King",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-29"
+      },
+      {
+        "movie_id": 111,
+        "title": "Das Boot",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-26"
+      },
+      {
+        "movie_id": 26,
+        "title": "The Green Mile",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-29"
+      },
+      {
+        "movie_id": 28,
+        "title": "Se7en",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-20"
+      },
+      {
+        "movie_id": 278,
+        "title": "Life of Brian",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-07-17"
+      },
+      {
+        "movie_id": 315,
+        "title": "Gone with the Wind",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-01"
+      },
+      {
+        "movie_id": 838,
+        "title": "Zelig",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-05-05"
+      },
+      {
+        "movie_id": 184,
+        "title": "Some Like It Hot",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-05-02"
+      },
+      {
+        "movie_id": 84,
+        "title": "The Great Dictator",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-11"
+      },
+      {
+        "movie_id": 949,
+        "title": "The Others",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-03-30"
+      },
+      {
+        "movie_id": 8,
+        "title": "Schindler's List",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-12"
+      },
+      {
+        "movie_id": 225,
+        "title": "A Wednesday",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-04"
+      },
+      {
+        "movie_id": 816,
+        "title": "Il postino",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-22"
+      },
+      {
+        "movie_id": 99,
+        "title": "American Beauty",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-16"
+      },
+      {
+        "movie_id": 44,
+        "title": "The Lion King",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-10"
+      },
+      {
+        "movie_id": 63,
+        "title": "Django Unchained",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-16"
+      },
+      {
+        "movie_id": 65,
+        "title": "3 Idiots",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-21"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Carla",
+    "age": 28,
+    "gender": "F",
+    "preferred_genres": [
+      "Crime",
+      "Horror",
+      "Thriller",
+      "Film-Noir"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 146,
+        "title": "Shutter Island",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-18"
+      },
+      {
+        "movie_id": 592,
+        "title": "Vicky Donor",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-08-12"
+      },
+      {
+        "movie_id": 187,
+        "title": "Du rififi chez les hommes",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-11"
+      },
+      {
+        "movie_id": 649,
+        "title": "The Boondock Saints",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-05"
+      },
+      {
+        "movie_id": 586,
+        "title": "Little Women",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-24"
+      },
+      {
+        "movie_id": 202,
+        "title": "Haider",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-11"
+      },
+      {
+        "movie_id": 600,
+        "title": "How to Train Your Dragon 2",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-10"
+      },
+      {
+        "movie_id": 252,
+        "title": "Crna macka, beli macor",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-09"
+      },
+      {
+        "movie_id": 26,
+        "title": "The Green Mile",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-22"
+      },
+      {
+        "movie_id": 578,
+        "title": "Udta Punjab",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-17"
+      },
+      {
+        "movie_id": 416,
+        "title": "Jaws",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-04"
+      },
+      {
+        "movie_id": 197,
+        "title": "Pink",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-02"
+      },
+      {
+        "movie_id": 557,
+        "title": "Strangers on a Train",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-18"
+      },
+      {
+        "movie_id": 56,
+        "title": "Vikram Vedha",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-16"
+      },
+      {
+        "movie_id": 664,
+        "title": "The Fugitive",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-16"
+      },
+      {
+        "movie_id": 70,
+        "title": "Memento",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-31"
+      },
+      {
+        "movie_id": 609,
+        "title": "Chugyeokja",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-28"
+      },
+      {
+        "movie_id": 974,
+        "title": "Home Alone",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-02-23"
+      },
+      {
+        "movie_id": 984,
+        "title": "The Warriors",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-08"
+      },
+      {
+        "movie_id": 233,
+        "title": "No Country for Old Men",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-11"
+      },
+      {
+        "movie_id": 585,
+        "title": "The Hateful Eight",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-30"
+      },
+      {
+        "movie_id": 861,
+        "title": "Zulu",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-27"
+      },
+      {
+        "movie_id": 718,
+        "title": "Duck Soup",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2025-12-17"
+      },
+      {
+        "movie_id": 642,
+        "title": "Gongdong gyeongbi guyeok JSA",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-15"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Daniela",
+    "age": 42,
+    "gender": "F",
+    "preferred_genres": [
+      "Crime",
+      "Thriller",
+      "Mystery",
+      "Horror"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 900,
+        "title": "El cuerpo",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-25"
+      },
+      {
+        "movie_id": 881,
+        "title": "Nelyubov",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-08"
+      },
+      {
+        "movie_id": 837,
+        "title": "After Hours",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-03"
+      },
+      {
+        "movie_id": 931,
+        "title": "Watchmen",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-19"
+      },
+      {
+        "movie_id": 975,
+        "title": "The Godfather: Part III",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-04"
+      },
+      {
+        "movie_id": 455,
+        "title": "The Best Years of Our Lives",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-04-27"
+      },
+      {
+        "movie_id": 573,
+        "title": "Forushande",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-03-18"
+      },
+      {
+        "movie_id": 746,
+        "title": "Gravity",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-11"
+      },
+      {
+        "movie_id": 694,
+        "title": "The Conversation",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-10"
+      },
+      {
+        "movie_id": 666,
+        "title": "Batman: Mask of the Phantasm",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-02"
+      },
+      {
+        "movie_id": 845,
+        "title": "Halloween",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-28"
+      },
+      {
+        "movie_id": 105,
+        "title": "Full Metal Jacket",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-06"
+      },
+      {
+        "movie_id": 870,
+        "title": "The Ladykillers",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-22"
+      },
+      {
+        "movie_id": 973,
+        "title": "Delicatessen",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-18"
+      },
+      {
+        "movie_id": 609,
+        "title": "Chugyeokja",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-04"
+      },
+      {
+        "movie_id": 864,
+        "title": "Cape Fear",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-08"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Tatiana",
+    "age": 36,
+    "gender": "F",
+    "preferred_genres": [
+      "Film-Noir",
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 720,
+        "title": "Frankenstein",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-03"
+      },
+      {
+        "movie_id": 728,
+        "title": "What We Do in the Shadows",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-03"
+      },
+      {
+        "movie_id": 66,
+        "title": "Taare Zameen Par",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-06-26"
+      },
+      {
+        "movie_id": 365,
+        "title": "Sin City",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-25"
+      },
+      {
+        "movie_id": 973,
+        "title": "Delicatessen",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-06-20"
+      },
+      {
+        "movie_id": 752,
+        "title": "Skyfall",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-14"
+      },
+      {
+        "movie_id": 713,
+        "title": "Shadow of a Doubt",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-10"
+      },
+      {
+        "movie_id": 267,
+        "title": "Dead Poets Society",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-24"
+      },
+      {
+        "movie_id": 609,
+        "title": "Chugyeokja",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-16"
+      },
+      {
+        "movie_id": 561,
+        "title": "The Big Sleep",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-09"
+      },
+      {
+        "movie_id": 773,
+        "title": "Zwartboek",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-15"
+      },
+      {
+        "movie_id": 562,
+        "title": "The Lost Weekend",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-02"
+      },
+      {
+        "movie_id": 608,
+        "title": "Madeo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-19"
+      },
+      {
+        "movie_id": 422,
+        "title": "The Last Picture Show",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-15"
+      },
+      {
+        "movie_id": 860,
+        "title": "Repulsion",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-11"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Priscila",
+    "age": 26,
+    "gender": "F",
+    "preferred_genres": [
+      "Mystery",
+      "Film-Noir",
+      "Horror"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 944,
+        "title": "28 Days Later...",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 567,
+        "title": "King Kong",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-04"
+      },
+      {
+        "movie_id": 922,
+        "title": "Inside Man",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-03"
+      },
+      {
+        "movie_id": 68,
+        "title": "The Lives of Others",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-02"
+      },
+      {
+        "movie_id": 83,
+        "title": "Sunset Blvd.",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-24"
+      },
+      {
+        "movie_id": 830,
+        "title": "Spoorloos",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-01"
+      },
+      {
+        "movie_id": 496,
+        "title": "The Man from Earth",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-08"
+      },
+      {
+        "movie_id": 926,
+        "title": "The Illusionist",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-06"
+      },
+      {
+        "movie_id": 1000,
+        "title": "The 39 Steps",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-30"
+      },
+      {
+        "movie_id": 500,
+        "title": "Fantastic Mr. Fox",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-27"
+      },
+      {
+        "movie_id": 50,
+        "title": "Psycho",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-23"
+      },
+      {
+        "movie_id": 824,
+        "title": "Glengarry Glen Ross",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-12"
+      },
+      {
+        "movie_id": 885,
+        "title": "The Peanut Butter Falcon",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-04-27"
+      },
+      {
+        "movie_id": 137,
+        "title": "Drishyam",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-12"
+      },
+      {
+        "movie_id": 140,
+        "title": "Bhaag Milkha Bhaag",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-05"
+      },
+      {
+        "movie_id": 713,
+        "title": "Shadow of a Doubt",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-02"
+      },
+      {
+        "movie_id": 42,
+        "title": "The Usual Suspects",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-31"
+      },
+      {
+        "movie_id": 70,
+        "title": "Memento",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-25"
+      },
+      {
+        "movie_id": 650,
+        "title": "The Insider",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-19"
+      },
+      {
+        "movie_id": 199,
+        "title": "Contratiempo",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-16"
+      },
+      {
+        "movie_id": 78,
+        "title": "Tengoku to jigoku",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-06"
+      },
+      {
+        "movie_id": 624,
+        "title": "Avatar",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-02-26"
+      },
+      {
+        "movie_id": 452,
+        "title": "Out of the Past",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-11"
+      },
+      {
+        "movie_id": 520,
+        "title": "Once Were Warriors",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-01-11"
+      },
+      {
+        "movie_id": 522,
+        "title": "Trois couleurs: Bleu",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-21"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Vitor",
+    "age": 24,
+    "gender": "M",
+    "preferred_genres": [
+      "Horror",
+      "Mystery",
+      "Film-Noir",
+      "Thriller"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 630,
+        "title": "Veer-Zaara",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-08-28"
+      },
+      {
+        "movie_id": 372,
+        "title": "Bom Yeoareum Gaeul Gyeoul Geurigo Bom",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-06-16"
+      },
+      {
+        "movie_id": 53,
+        "title": "City Lights",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-06-06"
+      },
+      {
+        "movie_id": 849,
+        "title": "Blazing Saddles",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-06"
+      },
+      {
+        "movie_id": 845,
+        "title": "Halloween",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-03"
+      },
+      {
+        "movie_id": 962,
+        "title": "Lost Highway",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-30"
+      },
+      {
+        "movie_id": 877,
+        "title": "The Invisible Man",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-23"
+      },
+      {
+        "movie_id": 922,
+        "title": "Inside Man",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-23"
+      },
+      {
+        "movie_id": 604,
+        "title": "The Girl with the Dragon Tattoo",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-18"
+      },
+      {
+        "movie_id": 31,
+        "title": "Seppuku",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-30"
+      },
+      {
+        "movie_id": 792,
+        "title": "Road to Perdition",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-28"
+      },
+      {
+        "movie_id": 812,
+        "title": "Primal Fear",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-21"
+      },
+      {
+        "movie_id": 846,
+        "title": "Le locataire",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-12"
+      },
+      {
+        "movie_id": 875,
+        "title": "Gilda",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-08"
+      },
+      {
+        "movie_id": 915,
+        "title": "Sherlock Holmes",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-04"
+      },
+      {
+        "movie_id": 551,
+        "title": "L'avventura",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-30"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Fabio",
+    "age": 42,
+    "gender": "M",
+    "preferred_genres": [
+      "Crime",
+      "Thriller",
+      "Mystery",
+      "Horror"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 68,
+        "title": "The Lives of Others",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-10"
+      },
+      {
+        "movie_id": 34,
+        "title": "Joker",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-20"
+      },
+      {
+        "movie_id": 146,
+        "title": "Shutter Island",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-12"
+      },
+      {
+        "movie_id": 190,
+        "title": "Rashômon",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-26"
+      },
+      {
+        "movie_id": 97,
+        "title": "Snatch",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-22"
+      },
+      {
+        "movie_id": 242,
+        "title": "Kill Bill: Vol. 1",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-11"
+      },
+      {
+        "movie_id": 817,
+        "title": "Clerks",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-04"
+      },
+      {
+        "movie_id": 4,
+        "title": "The Godfather: Part II",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-01"
+      },
+      {
+        "movie_id": 352,
+        "title": "Yip Man",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-05-17"
+      },
+      {
+        "movie_id": 221,
+        "title": "Kahaani",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-11"
+      },
+      {
+        "movie_id": 737,
+        "title": "The Broken Circle Breakdown",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-27"
+      },
+      {
+        "movie_id": 166,
+        "title": "Casino",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-22"
+      },
+      {
+        "movie_id": 219,
+        "title": "Spotlight",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-19"
+      },
+      {
+        "movie_id": 162,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-10"
+      },
+      {
+        "movie_id": 200,
+        "title": "Ah-ga-ssi",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-30"
+      },
+      {
+        "movie_id": 699,
+        "title": "Willy Wonka & the Chocolate Factory",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-19"
+      },
+      {
+        "movie_id": 923,
+        "title": "Gone Baby Gone",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-24"
+      },
+      {
+        "movie_id": 23,
+        "title": "Cidade de Deus",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-15"
+      },
+      {
+        "movie_id": 29,
+        "title": "The Silence of the Lambs",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-09"
+      },
+      {
+        "movie_id": 82,
+        "title": "Rear Window",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-07"
+      },
+      {
+        "movie_id": 689,
+        "title": "E.T. the Extra-Terrestrial",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-04"
+      },
+      {
+        "movie_id": 137,
+        "title": "Drishyam",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-10"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Leonardo",
+    "age": 26,
+    "gender": "M",
+    "preferred_genres": [
+      "Thriller",
+      "Mystery",
+      "Film-Noir"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 926,
+        "title": "The Illusionist",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 76,
+        "title": "Alien",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 984,
+        "title": "The Warriors",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-13"
+      },
+      {
+        "movie_id": 796,
+        "title": "Ocean's Eleven",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-12"
+      },
+      {
+        "movie_id": 915,
+        "title": "Sherlock Holmes",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-27"
+      },
+      {
+        "movie_id": 690,
+        "title": "Kramer vs. Kramer",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-13"
+      },
+      {
+        "movie_id": 937,
+        "title": "Un long dimanche de fiançailles",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-20"
+      },
+      {
+        "movie_id": 955,
+        "title": "Lola rennt",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-11"
+      },
+      {
+        "movie_id": 860,
+        "title": "Repulsion",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-31"
+      },
+      {
+        "movie_id": 912,
+        "title": "La piel que habito",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-12"
+      },
+      {
+        "movie_id": 845,
+        "title": "Halloween",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 477,
+        "title": "Arrival",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-05-07"
+      },
+      {
+        "movie_id": 961,
+        "title": "Sleepers",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-09"
+      },
+      {
+        "movie_id": 854,
+        "title": "Dirty Harry",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-10"
+      },
+      {
+        "movie_id": 825,
+        "title": "A Few Good Men",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-21"
+      },
+      {
+        "movie_id": 959,
+        "title": "Funny Games",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-28"
+      },
+      {
+        "movie_id": 433,
+        "title": "8½",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2025-11-12"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Igor",
+    "age": 26,
+    "gender": "M",
+    "preferred_genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 333,
+        "title": "Kaguyahime no monogatari",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-08-18"
+      },
+      {
+        "movie_id": 416,
+        "title": "Jaws",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-05"
+      },
+      {
+        "movie_id": 258,
+        "title": "La haine",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-30"
+      },
+      {
+        "movie_id": 919,
+        "title": "Eastern Promises",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-03"
+      },
+      {
+        "movie_id": 260,
+        "title": "Before Sunrise",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-06-24"
+      },
+      {
+        "movie_id": 263,
+        "title": "Jurassic Park",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-06-21"
+      },
+      {
+        "movie_id": 891,
+        "title": "Bridge of Spies",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-08"
+      },
+      {
+        "movie_id": 16,
+        "title": "Goodfellas",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-20"
+      },
+      {
+        "movie_id": 812,
+        "title": "Primal Fear",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-10"
+      },
+      {
+        "movie_id": 815,
+        "title": "Do lok tin si",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-09"
+      },
+      {
+        "movie_id": 837,
+        "title": "After Hours",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-20"
+      },
+      {
+        "movie_id": 848,
+        "title": "The Taking of Pelham One Two Three",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-15"
+      },
+      {
+        "movie_id": 146,
+        "title": "Shutter Island",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-01"
+      },
+      {
+        "movie_id": 878,
+        "title": "Dark Waters",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-02-07"
+      },
+      {
+        "movie_id": 97,
+        "title": "Snatch",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-17"
+      },
+      {
+        "movie_id": 862,
+        "title": "Goldfinger",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-15"
+      },
+      {
+        "movie_id": 865,
+        "title": "Peeping Tom",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-11"
+      },
+      {
+        "movie_id": 879,
+        "title": "Searching",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-27"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Larissa",
+    "age": 32,
+    "gender": "F",
+    "preferred_genres": [
+      "Romance",
+      "Comedy",
+      "Drama"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 704,
+        "title": "My Fair Lady",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-21"
+      },
+      {
+        "movie_id": 719,
+        "title": "Scarface: The Shame of the Nation",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-16"
+      },
+      {
+        "movie_id": 844,
+        "title": "Rupan sansei: Kariosutoro no shiro",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-08-09"
+      },
+      {
+        "movie_id": 984,
+        "title": "The Warriors",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-07"
+      },
+      {
+        "movie_id": 661,
+        "title": "The Sandlot",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-30"
+      },
+      {
+        "movie_id": 697,
+        "title": "Badlands",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-18"
+      },
+      {
+        "movie_id": 568,
+        "title": "Freaks",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-29"
+      },
+      {
+        "movie_id": 980,
+        "title": "Lethal Weapon",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-06-28"
+      },
+      {
+        "movie_id": 714,
+        "title": "Stagecoach",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-26"
+      },
+      {
+        "movie_id": 591,
+        "title": "The Lunchbox",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-12"
+      },
+      {
+        "movie_id": 733,
+        "title": "Me and Earl and the Dying Girl",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-12"
+      },
+      {
+        "movie_id": 282,
+        "title": "Barry Lyndon",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-06"
+      },
+      {
+        "movie_id": 928,
+        "title": "Harry Potter and the Half-Blood Prince",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-06-06"
+      },
+      {
+        "movie_id": 270,
+        "title": "Paris, Texas",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-01"
+      },
+      {
+        "movie_id": 692,
+        "title": "The Outlaw Josey Wales",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-25"
+      },
+      {
+        "movie_id": 885,
+        "title": "The Peanut Butter Falcon",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-25"
+      },
+      {
+        "movie_id": 31,
+        "title": "Seppuku",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-25"
+      },
+      {
+        "movie_id": 434,
+        "title": "Vivre sa vie: Film en douze tableaux",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-23"
+      },
+      {
+        "movie_id": 574,
+        "title": "Dunkirk",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-14"
+      },
+      {
+        "movie_id": 11,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-08"
+      },
+      {
+        "movie_id": 567,
+        "title": "King Kong",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-08"
+      },
+      {
+        "movie_id": 703,
+        "title": "Bonnie and Clyde",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-02-25"
+      },
+      {
+        "movie_id": 87,
+        "title": "Andhadhun",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-23"
+      },
+      {
+        "movie_id": 300,
+        "title": "Les quatre cents coups",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-07"
+      },
+      {
+        "movie_id": 293,
+        "title": "El ángel exterminador",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-07"
+      },
+      {
+        "movie_id": 383,
+        "title": "Donnie Darko",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-28"
+      },
+      {
+        "movie_id": 712,
+        "title": "To Have and Have Not",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-17"
+      },
+      {
+        "movie_id": 671,
+        "title": "Misery",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-10"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Luana",
+    "age": 36,
+    "gender": "F",
+    "preferred_genres": [
+      "Family",
+      "Comedy",
+      "Drama"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 649,
+        "title": "The Boondock Saints",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-07-25"
+      },
+      {
+        "movie_id": 437,
+        "title": "Rio Bravo",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-14"
+      },
+      {
+        "movie_id": 138,
+        "title": "Queen",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-07"
+      },
+      {
+        "movie_id": 79,
+        "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-05"
+      },
+      {
+        "movie_id": 530,
+        "title": "Brazil",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-04"
+      },
+      {
+        "movie_id": 44,
+        "title": "The Lion King",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-07"
+      },
+      {
+        "movie_id": 740,
+        "title": "Nebraska",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-05"
+      },
+      {
+        "movie_id": 361,
+        "title": "The Pursuit of Happyness",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-26"
+      },
+      {
+        "movie_id": 516,
+        "title": "Mulholland Dr.",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-26"
+      },
+      {
+        "movie_id": 68,
+        "title": "The Lives of Others",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-15"
+      },
+      {
+        "movie_id": 692,
+        "title": "The Outlaw Josey Wales",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-05-08"
+      },
+      {
+        "movie_id": 603,
+        "title": "Ang-ma-reul bo-at-da",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-03"
+      },
+      {
+        "movie_id": 567,
+        "title": "King Kong",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-03-30"
+      },
+      {
+        "movie_id": 170,
+        "title": "Dom za vesanje",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-29"
+      },
+      {
+        "movie_id": 509,
+        "title": "Hable con ella",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-12"
+      },
+      {
+        "movie_id": 619,
+        "title": "The Hobbit: An Unexpected Journey",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-03-07"
+      },
+      {
+        "movie_id": 312,
+        "title": "The Shop Around the Corner",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-18"
+      },
+      {
+        "movie_id": 341,
+        "title": "Blade Runner 2049",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-11"
+      },
+      {
+        "movie_id": 827,
+        "title": "Barton Fink",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-05"
+      },
+      {
+        "movie_id": 498,
+        "title": "The Fall",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-03"
+      },
+      {
+        "movie_id": 747,
+        "title": "Star Trek Into Darkness",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-12-25"
+      },
+      {
+        "movie_id": 600,
+        "title": "How to Train Your Dragon 2",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2025-12-14"
+      },
+      {
+        "movie_id": 700,
+        "title": "Midnight Cowboy",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-12"
+      },
+      {
+        "movie_id": 195,
+        "title": "Sherlock Jr.",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-05"
+      },
+      {
+        "movie_id": 284,
+        "title": "Chinatown",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-05"
+      },
+      {
+        "movie_id": 348,
+        "title": "The Help",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-02"
+      },
+      {
+        "movie_id": 497,
+        "title": "Letters from Iwo Jima",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-22"
+      },
+      {
+        "movie_id": 583,
+        "title": "Rogue One",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-11-10"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Giovanna",
+    "age": 23,
+    "gender": "F",
+    "preferred_genres": [
+      "Drama",
+      "Musical",
+      "Comedy",
+      "Music"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 4,
+        "title": "The Godfather: Part II",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-29"
+      },
+      {
+        "movie_id": 408,
+        "title": "Der Himmel über Berlin",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-22"
+      },
+      {
+        "movie_id": 378,
+        "title": "Big Fish",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-13"
+      },
+      {
+        "movie_id": 288,
+        "title": "Le samouraï",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-31"
+      },
+      {
+        "movie_id": 61,
+        "title": "Avengers: Infinity War",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-23"
+      },
+      {
+        "movie_id": 36,
+        "title": "The Intouchables",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-15"
+      },
+      {
+        "movie_id": 86,
+        "title": "Tumbbad",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-15"
+      },
+      {
+        "movie_id": 129,
+        "title": "Chhichhore",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-30"
+      },
+      {
+        "movie_id": 340,
+        "title": "Guardians of the Galaxy",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-28"
+      },
+      {
+        "movie_id": 310,
+        "title": "The Third Man",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-05-25"
+      },
+      {
+        "movie_id": 170,
+        "title": "Dom za vesanje",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-16"
+      },
+      {
+        "movie_id": 392,
+        "title": "Sling Blade",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-29"
+      },
+      {
+        "movie_id": 154,
+        "title": "Rang De Basanti",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-27"
+      },
+      {
+        "movie_id": 159,
+        "title": "Hauru no ugoku shiro",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-04-08"
+      },
+      {
+        "movie_id": 63,
+        "title": "Django Unchained",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-04"
+      },
+      {
+        "movie_id": 171,
+        "title": "Tonari no Totoro",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-04"
+      },
+      {
+        "movie_id": 168,
+        "title": "Unforgiven",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-02"
+      },
+      {
+        "movie_id": 724,
+        "title": "Wind River",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-17"
+      },
+      {
+        "movie_id": 284,
+        "title": "Chinatown",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-16"
+      },
+      {
+        "movie_id": 255,
+        "title": "Trainspotting",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-11"
+      },
+      {
+        "movie_id": 907,
+        "title": "Despicable Me",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-28"
+      },
+      {
+        "movie_id": 90,
+        "title": "Jodaeiye Nader az Simin",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-05"
+      },
+      {
+        "movie_id": 466,
+        "title": "Manbiki kazoku",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-25"
+      },
+      {
+        "movie_id": 877,
+        "title": "The Invisible Man",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-12-30"
+      },
+      {
+        "movie_id": 133,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-29"
+      },
+      {
+        "movie_id": 327,
+        "title": "Baby",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-12-06"
+      },
+      {
+        "movie_id": 263,
+        "title": "Jurassic Park",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-11-27"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Rafaela",
+    "age": 36,
+    "gender": "F",
+    "preferred_genres": [
+      "Romance",
+      "Drama",
+      "Family"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 182,
+        "title": "Yôjinbô",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-27"
+      },
+      {
+        "movie_id": 74,
+        "title": "The Shining",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-31"
+      },
+      {
+        "movie_id": 888,
+        "title": "Guardians of the Galaxy Vol. 2",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-07-29"
+      },
+      {
+        "movie_id": 960,
+        "title": "Dark City",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-07-19"
+      },
+      {
+        "movie_id": 135,
+        "title": "Baahubali 2: The Conclusion",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-26"
+      },
+      {
+        "movie_id": 175,
+        "title": "Stalker",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-25"
+      },
+      {
+        "movie_id": 692,
+        "title": "The Outlaw Josey Wales",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-21"
+      },
+      {
+        "movie_id": 52,
+        "title": "Modern Times",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-23"
+      },
+      {
+        "movie_id": 305,
+        "title": "The Bridge on the River Kwai",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-12"
+      },
+      {
+        "movie_id": 168,
+        "title": "Unforgiven",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-19"
+      },
+      {
+        "movie_id": 892,
+        "title": "Incredibles 2",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-15"
+      },
+      {
+        "movie_id": 133,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-03"
+      },
+      {
+        "movie_id": 171,
+        "title": "Tonari no Totoro",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-23"
+      },
+      {
+        "movie_id": 763,
+        "title": "Death Note: Desu nôto",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-03"
+      },
+      {
+        "movie_id": 1,
+        "title": "The Shawshank Redemption",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-17"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Bernardo",
+    "age": 30,
+    "gender": "M",
+    "preferred_genres": [
+      "Comedy",
+      "Romance",
+      "Music"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 285,
+        "title": "Paper Moon",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-02"
+      },
+      {
+        "movie_id": 96,
+        "title": "Amélie",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-14"
+      },
+      {
+        "movie_id": 482,
+        "title": "The Artist",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-12"
+      },
+      {
+        "movie_id": 582,
+        "title": "Under sandet",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-10"
+      },
+      {
+        "movie_id": 115,
+        "title": "2001: A Space Odyssey",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-04"
+      },
+      {
+        "movie_id": 455,
+        "title": "The Best Years of Our Lives",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-29"
+      },
+      {
+        "movie_id": 592,
+        "title": "Vicky Donor",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-28"
+      },
+      {
+        "movie_id": 27,
+        "title": "La vita è bella",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 32,
+        "title": "Shichinin no samurai",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-04-17"
+      },
+      {
+        "movie_id": 313,
+        "title": "Rebecca",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-16"
+      },
+      {
+        "movie_id": 364,
+        "title": "Bin-jip",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-01"
+      },
+      {
+        "movie_id": 239,
+        "title": "Munna Bhai M.B.B.S.",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-31"
+      },
+      {
+        "movie_id": 540,
+        "title": "Le charme discret de la bourgeoisie",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-31"
+      },
+      {
+        "movie_id": 471,
+        "title": "Hunt for the Wilderpeople",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-26"
+      },
+      {
+        "movie_id": 212,
+        "title": "Ôkami kodomo no Ame to Yuki",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-08"
+      },
+      {
+        "movie_id": 368,
+        "title": "Ratatouille",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-03-06"
+      },
+      {
+        "movie_id": 51,
+        "title": "Casablanca",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-27"
+      },
+      {
+        "movie_id": 515,
+        "title": "Almost Famous",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-18"
+      },
+      {
+        "movie_id": 23,
+        "title": "Cidade de Deus",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-01-11"
+      },
+      {
+        "movie_id": 48,
+        "title": "Back to the Future",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-10"
+      },
+      {
+        "movie_id": 170,
+        "title": "Dom za vesanje",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-03"
+      },
+      {
+        "movie_id": 246,
+        "title": "Monsters, Inc.",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-21"
+      },
+      {
+        "movie_id": 261,
+        "title": "Trois couleurs: Rouge",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-21"
+      },
+      {
+        "movie_id": 501,
+        "title": "C.R.A.Z.Y.",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-03"
+      },
+      {
+        "movie_id": 55,
+        "title": "Ayla: The Daughter of War",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2025-11-22"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Samuel",
+    "age": 21,
+    "gender": "M",
+    "preferred_genres": [
+      "Musical",
+      "Music",
+      "Romance"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 176,
+        "title": "Höstsonaten",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 53,
+        "title": "City Lights",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-13"
+      },
+      {
+        "movie_id": 455,
+        "title": "The Best Years of Our Lives",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-11"
+      },
+      {
+        "movie_id": 491,
+        "title": "Jab We Met",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-07"
+      },
+      {
+        "movie_id": 189,
+        "title": "Tôkyô monogatari",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-07-07"
+      },
+      {
+        "movie_id": 100,
+        "title": "Good Will Hunting",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-22"
+      },
+      {
+        "movie_id": 794,
+        "title": "Billy Elliot",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-02"
+      },
+      {
+        "movie_id": 46,
+        "title": "Nuovo Cinema Paradiso",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-01"
+      },
+      {
+        "movie_id": 328,
+        "title": "La La Land",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-31"
+      },
+      {
+        "movie_id": 453,
+        "title": "Brief Encounter",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-26"
+      },
+      {
+        "movie_id": 364,
+        "title": "Bin-jip",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-15"
+      },
+      {
+        "movie_id": 979,
+        "title": "Planes, Trains & Automobiles",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-30"
+      },
+      {
+        "movie_id": 473,
+        "title": "Sing Street",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-26"
+      },
+      {
+        "movie_id": 431,
+        "title": "Doctor Zhivago",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-14"
+      },
+      {
+        "movie_id": 319,
+        "title": "The Circus",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-24"
+      },
+      {
+        "movie_id": 323,
+        "title": "Badhaai ho",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-03-03"
+      },
+      {
+        "movie_id": 427,
+        "title": "Planet of the Apes",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-12-29"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Erick",
+    "age": 36,
+    "gender": "M",
+    "preferred_genres": [
+      "Romance",
+      "Family",
+      "Drama",
+      "Comedy"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 467,
+        "title": "Marriage Story",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-25"
+      },
+      {
+        "movie_id": 685,
+        "title": "The Killing Fields",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-20"
+      },
+      {
+        "movie_id": 249,
+        "title": "The Sixth Sense",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-30"
+      },
+      {
+        "movie_id": 270,
+        "title": "Paris, Texas",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-12"
+      },
+      {
+        "movie_id": 754,
+        "title": "Argo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-21"
+      },
+      {
+        "movie_id": 983,
+        "title": "Mad Max 2",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-04-20"
+      },
+      {
+        "movie_id": 306,
+        "title": "On the Waterfront",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-21"
+      },
+      {
+        "movie_id": 7,
+        "title": "Pulp Fiction",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-14"
+      },
+      {
+        "movie_id": 210,
+        "title": "The Grand Budapest Hotel",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-05"
+      },
+      {
+        "movie_id": 714,
+        "title": "Stagecoach",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-27"
+      },
+      {
+        "movie_id": 70,
+        "title": "Memento",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-01-25"
+      },
+      {
+        "movie_id": 223,
+        "title": "Prisoners",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-19"
+      },
+      {
+        "movie_id": 272,
+        "title": "The Thing",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-01-19"
+      },
+      {
+        "movie_id": 115,
+        "title": "2001: A Space Odyssey",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-01-10"
+      },
+      {
+        "movie_id": 626,
+        "title": "Apocalypto",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-24"
+      },
+      {
+        "movie_id": 287,
+        "title": "Solaris",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-09"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Danilo",
+    "age": 32,
+    "gender": "M",
+    "preferred_genres": [
+      "Comedy",
+      "Romance",
+      "Drama",
+      "Music"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 678,
+        "title": "Predator",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-08-14"
+      },
+      {
+        "movie_id": 145,
+        "title": "Warrior",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-08-10"
+      },
+      {
+        "movie_id": 192,
+        "title": "The Treasure of the Sierra Madre",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-30"
+      },
+      {
+        "movie_id": 248,
+        "title": "Lagaan: Once Upon a Time in India",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-24"
+      },
+      {
+        "movie_id": 4,
+        "title": "The Godfather: Part II",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-14"
+      },
+      {
+        "movie_id": 2,
+        "title": "The Godfather",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-05"
+      },
+      {
+        "movie_id": 166,
+        "title": "Casino",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-25"
+      },
+      {
+        "movie_id": 407,
+        "title": "The Princess Bride",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-09"
+      },
+      {
+        "movie_id": 206,
+        "title": "Soul",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-04"
+      },
+      {
+        "movie_id": 402,
+        "title": "Beauty and the Beast",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-04-18"
+      },
+      {
+        "movie_id": 189,
+        "title": "Tôkyô monogatari",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-06"
+      },
+      {
+        "movie_id": 557,
+        "title": "Strangers on a Train",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-04-05"
+      },
+      {
+        "movie_id": 18,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-29"
+      },
+      {
+        "movie_id": 217,
+        "title": "Rush",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-21"
+      },
+      {
+        "movie_id": 227,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-13"
+      },
+      {
+        "movie_id": 500,
+        "title": "Fantastic Mr. Fox",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-30"
+      },
+      {
+        "movie_id": 213,
+        "title": "Hacksaw Ridge",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-22"
+      },
+      {
+        "movie_id": 60,
+        "title": "Avengers: Endgame",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-14"
+      },
+      {
+        "movie_id": 25,
+        "title": "Saving Private Ryan",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-12"
+      },
+      {
+        "movie_id": 22,
+        "title": "Interstellar",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-30"
+      },
+      {
+        "movie_id": 200,
+        "title": "Ah-ga-ssi",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-07"
+      },
+      {
+        "movie_id": 952,
+        "title": "Minority Report",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-11-06"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Virginia",
+    "age": 65,
+    "gender": "F",
+    "preferred_genres": [
+      "War",
+      "Western",
+      "Action"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 579,
+        "title": "Kubo and the Two Strings",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-23"
+      },
+      {
+        "movie_id": 444,
+        "title": "La Strada",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-07-21"
+      },
+      {
+        "movie_id": 738,
+        "title": "Captain America: The Winter Soldier",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-15"
+      },
+      {
+        "movie_id": 395,
+        "title": "Kôkaku Kidôtai",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-22"
+      },
+      {
+        "movie_id": 999,
+        "title": "Lifeboat",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-18"
+      },
+      {
+        "movie_id": 295,
+        "title": "Sanjuro",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-17"
+      },
+      {
+        "movie_id": 699,
+        "title": "Willy Wonka & the Chocolate Factory",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-05-14"
+      },
+      {
+        "movie_id": 606,
+        "title": "Ajeossi",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-18"
+      },
+      {
+        "movie_id": 929,
+        "title": "300",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-11"
+      },
+      {
+        "movie_id": 866,
+        "title": "The Magnificent Seven",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-26"
+      },
+      {
+        "movie_id": 41,
+        "title": "American History X",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-03-12"
+      },
+      {
+        "movie_id": 328,
+        "title": "La La Land",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-03-12"
+      },
+      {
+        "movie_id": 135,
+        "title": "Baahubali 2: The Conclusion",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-18"
+      },
+      {
+        "movie_id": 910,
+        "title": "Celda 211",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-05"
+      },
+      {
+        "movie_id": 723,
+        "title": "Deadpool 2",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-27"
+      },
+      {
+        "movie_id": 536,
+        "title": "Dawn of the Dead",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-26"
+      },
+      {
+        "movie_id": 311,
+        "title": "The Red Shoes",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-01-26"
+      },
+      {
+        "movie_id": 660,
+        "title": "Tombstone",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-26"
+      },
+      {
+        "movie_id": 840,
+        "title": "Star Trek II: The Wrath of Khan",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-25"
+      },
+      {
+        "movie_id": 116,
+        "title": "Per qualche dollaro in più",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-21"
+      },
+      {
+        "movie_id": 218,
+        "title": "Ford v Ferrari",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-13"
+      },
+      {
+        "movie_id": 192,
+        "title": "The Treasure of the Sierra Madre",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-11"
+      },
+      {
+        "movie_id": 814,
+        "title": "A Little Princess",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-12-07"
+      },
+      {
+        "movie_id": 791,
+        "title": "Black Hawk Down",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-16"
+      },
+      {
+        "movie_id": 833,
+        "title": "Empire of the Sun",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-15"
+      },
+      {
+        "movie_id": 143,
+        "title": "Paan Singh Tomar",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-13"
+      },
+      {
+        "movie_id": 266,
+        "title": "Dà hóng denglong gaogao guà",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-11-13"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Tania",
+    "age": 64,
+    "gender": "F",
+    "preferred_genres": [
+      "Action",
+      "History",
+      "Adventure"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 282,
+        "title": "Barry Lyndon",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-10"
+      },
+      {
+        "movie_id": 821,
+        "title": "Malcolm X",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-06-14"
+      },
+      {
+        "movie_id": 377,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-03"
+      },
+      {
+        "movie_id": 494,
+        "title": "Star Trek",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-10"
+      },
+      {
+        "movie_id": 387,
+        "title": "Pâfekuto burû",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-10"
+      },
+      {
+        "movie_id": 753,
+        "title": "Silver Linings Playbook",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-02"
+      },
+      {
+        "movie_id": 491,
+        "title": "Jab We Met",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-26"
+      },
+      {
+        "movie_id": 367,
+        "title": "G.O.R.A.",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-12"
+      },
+      {
+        "movie_id": 301,
+        "title": "Ben-Hur",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-06"
+      },
+      {
+        "movie_id": 362,
+        "title": "Blood Diamond",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-30"
+      },
+      {
+        "movie_id": 410,
+        "title": "Tenkû no shiro Rapyuta",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-30"
+      },
+      {
+        "movie_id": 246,
+        "title": "Monsters, Inc.",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-23"
+      },
+      {
+        "movie_id": 390,
+        "title": "The Iron Giant",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-01-04"
+      },
+      {
+        "movie_id": 314,
+        "title": "Mr. Smith Goes to Washington",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2025-12-24"
+      },
+      {
+        "movie_id": 248,
+        "title": "Lagaan: Once Upon a Time in India",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-15"
+      },
+      {
+        "movie_id": 235,
+        "title": "Million Dollar Baby",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2025-11-26"
+      },
+      {
+        "movie_id": 400,
+        "title": "Aladdin",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-22"
+      },
+      {
+        "movie_id": 268,
+        "title": "Stand by Me",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-14"
+      },
+      {
+        "movie_id": 349,
+        "title": "Deadpool",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-10"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Sandra",
+    "age": 56,
+    "gender": "F",
+    "preferred_genres": [
+      "Adventure",
+      "Action",
+      "History"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 152,
+        "title": "Toy Story 3",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-11"
+      },
+      {
+        "movie_id": 9,
+        "title": "Inception",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-10"
+      },
+      {
+        "movie_id": 745,
+        "title": "The Lego Movie",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-05"
+      },
+      {
+        "movie_id": 603,
+        "title": "Ang-ma-reul bo-at-da",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-28"
+      },
+      {
+        "movie_id": 14,
+        "title": "The Lord of the Rings: The Two Towers",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-10"
+      },
+      {
+        "movie_id": 757,
+        "title": "Gake no ue no Ponyo",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-02"
+      },
+      {
+        "movie_id": 72,
+        "title": "Once Upon a Time in America",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-06"
+      },
+      {
+        "movie_id": 600,
+        "title": "How to Train Your Dragon 2",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-12"
+      },
+      {
+        "movie_id": 538,
+        "title": "La montaña sagrada",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-04-02"
+      },
+      {
+        "movie_id": 693,
+        "title": "The Man Who Would Be King",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-18"
+      },
+      {
+        "movie_id": 563,
+        "title": "The Philadelphia Story",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-07"
+      },
+      {
+        "movie_id": 59,
+        "title": "Spider-Man: Into the Spider-Verse",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-13"
+      },
+      {
+        "movie_id": 537,
+        "title": "All the President's Men",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-02-09"
+      },
+      {
+        "movie_id": 937,
+        "title": "Un long dimanche de fiançailles",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-02-07"
+      },
+      {
+        "movie_id": 66,
+        "title": "Taare Zameen Par",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-01-24"
+      },
+      {
+        "movie_id": 635,
+        "title": "Serenity",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-30"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Regina",
+    "age": 68,
+    "gender": "F",
+    "preferred_genres": [
+      "Action",
+      "History",
+      "Adventure",
+      "War"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 692,
+        "title": "The Outlaw Josey Wales",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-08-25"
+      },
+      {
+        "movie_id": 583,
+        "title": "Rogue One",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-16"
+      },
+      {
+        "movie_id": 604,
+        "title": "The Girl with the Dragon Tattoo",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-08-15"
+      },
+      {
+        "movie_id": 517,
+        "title": "Toy Story 2",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-22"
+      },
+      {
+        "movie_id": 554,
+        "title": "The Searchers",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-03"
+      },
+      {
+        "movie_id": 626,
+        "title": "Apocalypto",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-03"
+      },
+      {
+        "movie_id": 990,
+        "title": "The Long Goodbye",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-04-04"
+      },
+      {
+        "movie_id": 578,
+        "title": "Udta Punjab",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-22"
+      },
+      {
+        "movie_id": 538,
+        "title": "La montaña sagrada",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-11"
+      },
+      {
+        "movie_id": 624,
+        "title": "Avatar",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-22"
+      },
+      {
+        "movie_id": 922,
+        "title": "Inside Man",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-22"
+      },
+      {
+        "movie_id": 533,
+        "title": "The Blues Brothers",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-13"
+      },
+      {
+        "movie_id": 603,
+        "title": "Ang-ma-reul bo-at-da",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-05"
+      },
+      {
+        "movie_id": 669,
+        "title": "La double vie de Véronique",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2025-12-07"
+      },
+      {
+        "movie_id": 769,
+        "title": "Lucky Number Slevin",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-05"
+      },
+      {
+        "movie_id": 714,
+        "title": "Stagecoach",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-11-23"
+      },
+      {
+        "movie_id": 642,
+        "title": "Gongdong gyeongbi guyeok JSA",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-20"
+      },
+      {
+        "movie_id": 541,
+        "title": "Aguirre, der Zorn Gottes",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-17"
+      },
+      {
+        "movie_id": 544,
+        "title": "The Wild Bunch",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-11"
+      },
+      {
+        "movie_id": 570,
+        "title": "The Gentlemen",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-04"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Walter",
+    "age": 58,
+    "gender": "M",
+    "preferred_genres": [
+      "War",
+      "History",
+      "Adventure",
+      "Action"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 630,
+        "title": "Veer-Zaara",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-08-02"
+      },
+      {
+        "movie_id": 384,
+        "title": "Magnolia",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-06-25"
+      },
+      {
+        "movie_id": 315,
+        "title": "Gone with the Wind",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-06"
+      },
+      {
+        "movie_id": 332,
+        "title": "Bãhubali: The Beginning",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-20"
+      },
+      {
+        "movie_id": 56,
+        "title": "Vikram Vedha",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-25"
+      },
+      {
+        "movie_id": 482,
+        "title": "The Artist",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-04-23"
+      },
+      {
+        "movie_id": 156,
+        "title": "Batman Begins",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-22"
+      },
+      {
+        "movie_id": 3,
+        "title": "The Dark Knight",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-13"
+      },
+      {
+        "movie_id": 257,
+        "title": "Underground",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-11"
+      },
+      {
+        "movie_id": 113,
+        "title": "The Sting",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-03-04"
+      },
+      {
+        "movie_id": 110,
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-11"
+      },
+      {
+        "movie_id": 248,
+        "title": "Lagaan: Once Upon a Time in India",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-05"
+      },
+      {
+        "movie_id": 17,
+        "title": "Star Wars: Episode V - The Empire Strikes Back",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-25"
+      },
+      {
+        "movie_id": 111,
+        "title": "Das Boot",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-01-15"
+      },
+      {
+        "movie_id": 362,
+        "title": "Blood Diamond",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-31"
+      },
+      {
+        "movie_id": 106,
+        "title": "Idi i smotri",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-31"
+      },
+      {
+        "movie_id": 958,
+        "title": "Fear and Loathing in Las Vegas",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-18"
+      },
+      {
+        "movie_id": 271,
+        "title": "Kaze no tani no Naushika",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-06"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Joaquim",
+    "age": 49,
+    "gender": "M",
+    "preferred_genres": [
+      "Adventure",
+      "Action",
+      "Western"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 544,
+        "title": "The Wild Bunch",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-08-29"
+      },
+      {
+        "movie_id": 719,
+        "title": "Scarface: The Shame of the Nation",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-08-25"
+      },
+      {
+        "movie_id": 602,
+        "title": "Kokuhaku",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-08-19"
+      },
+      {
+        "movie_id": 768,
+        "title": "Zodiac",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-08-05"
+      },
+      {
+        "movie_id": 678,
+        "title": "Predator",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-07-23"
+      },
+      {
+        "movie_id": 574,
+        "title": "Dunkirk",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-07-16"
+      },
+      {
+        "movie_id": 555,
+        "title": "East of Eden",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-07-14"
+      },
+      {
+        "movie_id": 569,
+        "title": "Nosferatu",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-07-07"
+      },
+      {
+        "movie_id": 652,
+        "title": "Shrek",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-22"
+      },
+      {
+        "movie_id": 738,
+        "title": "Captain America: The Winter Soldier",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-28"
+      },
+      {
+        "movie_id": 71,
+        "title": "Mononoke-hime",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-04-09"
+      },
+      {
+        "movie_id": 708,
+        "title": "The Innocents",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-03-31"
+      },
+      {
+        "movie_id": 173,
+        "title": "Ran",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-03-14"
+      },
+      {
+        "movie_id": 667,
+        "title": "Lat sau san taam",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-07"
+      },
+      {
+        "movie_id": 379,
+        "title": "The Incredibles",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-25"
+      },
+      {
+        "movie_id": 606,
+        "title": "Ajeossi",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-15"
+      },
+      {
+        "movie_id": 69,
+        "title": "Oldeuboi",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-11"
+      },
+      {
+        "movie_id": 767,
+        "title": "The Last King of Scotland",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-02-11"
+      },
+      {
+        "movie_id": 712,
+        "title": "To Have and Have Not",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-03"
+      },
+      {
+        "movie_id": 603,
+        "title": "Ang-ma-reul bo-at-da",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-12-27"
+      },
+      {
+        "movie_id": 609,
+        "title": "Chugyeokja",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-24"
+      },
+      {
+        "movie_id": 533,
+        "title": "The Blues Brothers",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-16"
+      },
+      {
+        "movie_id": 523,
+        "title": "Jûbê ninpûchô",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-12-16"
+      },
+      {
+        "movie_id": 909,
+        "title": "Kick-Ass",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-15"
+      },
+      {
+        "movie_id": 656,
+        "title": "The Game",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-11-27"
+      },
+      {
+        "movie_id": 159,
+        "title": "Hauru no ugoku shiro",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2025-11-17"
+      },
+      {
+        "movie_id": 562,
+        "title": "The Lost Weekend",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2025-11-06"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Valter",
+    "age": 55,
+    "gender": "M",
+    "preferred_genres": [
+      "Western",
+      "War",
+      "History",
+      "Adventure"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 244,
+        "title": "Catch Me If You Can",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-07-13"
+      },
+      {
+        "movie_id": 427,
+        "title": "Planet of the Apes",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-17"
+      },
+      {
+        "movie_id": 175,
+        "title": "Stalker",
+        "user_rating": 3,
+        "liked": false,
+        "watch_date": "2026-06-14"
+      },
+      {
+        "movie_id": 85,
+        "title": "1917",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-06-11"
+      },
+      {
+        "movie_id": 110,
+        "title": "Star Wars: Episode VI - Return of the Jedi",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-06-09"
+      },
+      {
+        "movie_id": 248,
+        "title": "Lagaan: Once Upon a Time in India",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-09"
+      },
+      {
+        "movie_id": 268,
+        "title": "Stand by Me",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-24"
+      },
+      {
+        "movie_id": 926,
+        "title": "The Illusionist",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-05"
+      },
+      {
+        "movie_id": 111,
+        "title": "Das Boot",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-04-15"
+      },
+      {
+        "movie_id": 8,
+        "title": "Schindler's List",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-06"
+      },
+      {
+        "movie_id": 13,
+        "title": "Il buono, il brutto, il cattivo",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-04-03"
+      },
+      {
+        "movie_id": 291,
+        "title": "Andrei Rublev",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-03-23"
+      },
+      {
+        "movie_id": 236,
+        "title": "Hotel Rwanda",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-02-04"
+      },
+      {
+        "movie_id": 74,
+        "title": "The Shining",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-01-30"
+      },
+      {
+        "movie_id": 64,
+        "title": "The Dark Knight Rises",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-14"
+      },
+      {
+        "movie_id": 913,
+        "title": "Zombieland",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2025-12-25"
+      },
+      {
+        "movie_id": 63,
+        "title": "Django Unchained",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2025-11-19"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Geraldo",
+    "age": 42,
+    "gender": "M",
+    "preferred_genres": [
+      "War",
+      "Western",
+      "Action"
+    ],
+    "watched_movies": [
+      {
+        "movie_id": 693,
+        "title": "The Man Who Would Be King",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-08-17"
+      },
+      {
+        "movie_id": 747,
+        "title": "Star Trek Into Darkness",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-18"
+      },
+      {
+        "movie_id": 295,
+        "title": "Sanjuro",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-07-11"
+      },
+      {
+        "movie_id": 714,
+        "title": "Stagecoach",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-07-01"
+      },
+      {
+        "movie_id": 570,
+        "title": "The Gentlemen",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-22"
+      },
+      {
+        "movie_id": 777,
+        "title": "Kung fu",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-06-08"
+      },
+      {
+        "movie_id": 969,
+        "title": "Falling Down",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-28"
+      },
+      {
+        "movie_id": 598,
+        "title": "La migliore offerta",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-11"
+      },
+      {
+        "movie_id": 533,
+        "title": "The Blues Brothers",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-05-10"
+      },
+      {
+        "movie_id": 571,
+        "title": "Raazi",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-07"
+      },
+      {
+        "movie_id": 536,
+        "title": "Dawn of the Dead",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-05-05"
+      },
+      {
+        "movie_id": 565,
+        "title": "The Adventures of Robin Hood",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-05-04"
+      },
+      {
+        "movie_id": 675,
+        "title": "Dip huet seung hung",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-05-01"
+      },
+      {
+        "movie_id": 493,
+        "title": "4 luni, 3 saptamâni si 2 zile",
+        "user_rating": 2.5,
+        "liked": false,
+        "watch_date": "2026-05-01"
+      },
+      {
+        "movie_id": 574,
+        "title": "Dunkirk",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2026-03-27"
+      },
+      {
+        "movie_id": 241,
+        "title": "Dil Chahta Hai",
+        "user_rating": 1,
+        "liked": false,
+        "watch_date": "2026-03-20"
+      },
+      {
+        "movie_id": 819,
+        "title": "Philadelphia",
+        "user_rating": 2,
+        "liked": false,
+        "watch_date": "2026-02-25"
+      },
+      {
+        "movie_id": 690,
+        "title": "Kramer vs. Kramer",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-17"
+      },
+      {
+        "movie_id": 582,
+        "title": "Under sandet",
+        "user_rating": 5,
+        "liked": true,
+        "watch_date": "2026-02-13"
+      },
+      {
+        "movie_id": 710,
+        "title": "Red River",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-02-09"
+      },
+      {
+        "movie_id": 628,
+        "title": "Hot Fuzz",
+        "user_rating": 3.5,
+        "liked": false,
+        "watch_date": "2026-01-21"
+      },
+      {
+        "movie_id": 679,
+        "title": "Evil Dead II",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-13"
+      },
+      {
+        "movie_id": 706,
+        "title": "The Longest Day",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-12"
+      },
+      {
+        "movie_id": 669,
+        "title": "La double vie de Véronique",
+        "user_rating": 1.5,
+        "liked": false,
+        "watch_date": "2026-01-12"
+      },
+      {
+        "movie_id": 778,
+        "title": "The Bourne Supremacy",
+        "user_rating": 4.5,
+        "liked": true,
+        "watch_date": "2026-01-10"
+      },
+      {
+        "movie_id": 51,
+        "title": "Casablanca",
+        "user_rating": 4,
+        "liked": true,
+        "watch_date": "2025-12-18"
+      }
+    ]
+  }
+]
